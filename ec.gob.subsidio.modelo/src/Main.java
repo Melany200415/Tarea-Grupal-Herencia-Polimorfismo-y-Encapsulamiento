@@ -1,4 +1,4 @@
-
+package ec.gob.subsidio.modelo;
 import java.util.Scanner;
 
 public class Main {
