@@ -1,4 +1,4 @@
-
+package ec.gob.subsidio.modelo;
 public class SolicitanteSubsidios {
     //Atributos
 
